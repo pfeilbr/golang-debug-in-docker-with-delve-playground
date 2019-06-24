@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Delve into Docker",
+      "type": "go",
+      "request": "attach",
+      "mode": "remote",
+      "remotePath": "/go/src/github.com/kaperys/delve-into-docker-app",
+      "port": 40000,
+      "host": "0.0.0.0",
+      "showLog": true
+    }
+  ]
+}
