@@ -7,3 +7,7 @@ make run # or make build first
 
 # set breakpoint in vscode on line 18, then Debug | Start Debugging
 ```
+
+## Resources
+
+* [dlv debug](https://github.com/go-delve/delve/blob/master/Documentation/usage/dlv_debug.md) cli docs
